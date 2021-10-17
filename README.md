@@ -1,2 +1,2 @@
-# scaling-TinDog Landing Page 
+# TinDog Landing Page 
 
