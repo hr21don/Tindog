@@ -1,4 +1,4 @@
-# TinDog Landing Page 
+# TinDog
 
 Our mission is to give a whole new meaning to landing pages. Stay Tuned for more!
 
